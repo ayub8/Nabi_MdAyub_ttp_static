@@ -1,5 +1,7 @@
-body{
+body
+{
   text-align: center;
-  background: #4dabf7;
+  background: url('IMG_8028.jpg') no-repeat center;
+	background-size: cover;
   font-size: 12px;
 }
